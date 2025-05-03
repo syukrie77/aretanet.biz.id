@@ -1,7 +1,8 @@
 ---
-title: Blog Title
-description: Your blog description, which is long text, can be an introduction to the post or a paragraph of the post.
-date: 2024-05-01
+title: Mau punya Bisnis? Mulai aja lagi
+description: Belajar bisnis beda dengan langsung praktek bisnis, kalo mau mulai bisnis, ya langsung praktek.
+date: 2025-05-03
 ---
 
-Use [Vitesse Them for Astro](https://astro.build/themes/details/vitesse-theme-for-astro/) to start writing your blog posts.
+Mau punya bisnis? ya praktek langsung buka bisnis, jangan belajar bisnis kelamaan gak akan buka-buka karena hanya belajar-belajar mulu gak akan buka-buka bisnis.
+Kalo teori-teori doank gak coba mulai buka dan jualan ya gak akan punya bisnis, ya kan? yang ada hanya hitung-hitung rugi untung doank.
