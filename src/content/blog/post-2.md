@@ -1,8 +1,8 @@
 ---
-title: 博客标题
-description: If you set the lang field to include zh, it will display an identifier.
-date: 2024-04-01
-lang: zh
+title: Belajar Web SEO
+description: Belajar Web SEO itu membutuhkan skill tentang programming, git, devops dan kemampuan copywriting.
+date: 2025-05-05
+lang: id
 ---
 
-Use [Vitesse Them for Astro](https://astro.build/themes/details/vitesse-theme-for-astro/) to start writing your blog posts.
+SEO adalah salah satu skill digital marketing yang cukup lama dikembangkan khsususnya di mesin pencari seperti google, yahoo dll. Kemampuan di SEO sangat dibutuhkan diera ekonomi digital saat ini, maka sebagai seorang IT tentu kita perlu mempelajari digital marketing khusus di SEO spesialis. 
